@@ -1,0 +1,8 @@
+python_version = "3.9"
+django = "==3.2.6"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+django-widget-tweaks = "*"
+gunicorn = "*"
+whitenoise = "*"
