@@ -90,4 +90,8 @@ Please see the appropriate guide for your environment of choice.
 
 - `pip install -r requirements.txt`
 
+- `python manage.py makemigrations user_interface`
+
+- `python manage.py migrate`
+
 - `python manage.py runserver`
