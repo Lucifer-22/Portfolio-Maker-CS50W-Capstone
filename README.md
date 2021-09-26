@@ -18,6 +18,15 @@ A personal website can let you make your pitch in front of people you might neve
 
 ![](theportfoliomaker.gif)
 
+&nbsp;
+
+:computer: &nbsp; **View project live [here](https://theportfoliomaker.herokuapp.com)**
+
+:arrow_forward: &nbsp; **View Video Presenation [here](https://youtu.be/N2Q66QBJ5aM)**
+
+&nbsp;
+
+
 ## Distinctiveness and Complexity
 
 This project is one of a kind attempt which is completely distinct from any prior submissions. This project is about making users Portfolio Site. The basic idea is to have user sign up, enter their details and then display those information in a beautiful manner; thereby creating a portfolio site. Additionally user also gain access to API of their entered information as well. This project provides CRUD (Create/Retrieve/Update/Delete) facility to the user in order to manage and update their informations as per their need. The application is in no way similar to the idea of a social network project or e-commerce site. The application utilizes Django (6 models) on the backend and Javascript for the front-end. The application is mobile-responsive as well.
@@ -97,6 +106,18 @@ Please see the appropriate guide for your environment of choice.
 - `python manage.py runserver`
 
 
+&nbsp;
+### Contribute
+
+Contributions are always welcome! Please create a PR to contribute.
+
+### :pencil: &nbsp; License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
 ![GitHub](https://img.shields.io/github/license/Lucifer-22/Portfolio-Maker-CS50W-Capstone?style=for-the-badge)
 
-![GitHub all releases](https://img.shields.io/github/downloads/Lucifer-22/Portfolio-Maker-CS50W-Capstone/total?style=for-the-badge)
+
+### :man_astronaut: &nbsp; Show your support
+
+Give a ⭐️ if this project helped you!
