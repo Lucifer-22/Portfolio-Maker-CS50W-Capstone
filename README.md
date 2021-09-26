@@ -86,7 +86,7 @@ The Models in the application are :
 
 ## Installations and how to run
 Please see the appropriate guide for your environment of choice.
-- `virtualenv env`
+- `py -m venv env`
 
 - `pip install -r requirements.txt`
 
@@ -96,5 +96,7 @@ Please see the appropriate guide for your environment of choice.
 
 - `python manage.py runserver`
 
+
 ![GitHub](https://img.shields.io/github/license/Lucifer-22/Portfolio-Maker-CS50W-Capstone?style=for-the-badge)
+
 ![GitHub all releases](https://img.shields.io/github/downloads/Lucifer-22/Portfolio-Maker-CS50W-Capstone/total?style=for-the-badge)
